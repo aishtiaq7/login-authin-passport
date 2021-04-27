@@ -17,8 +17,15 @@ app.set('view-engine', 'ejs');
 //Sets up render response for local host
 app.get('/', (req,res)=>{
     // console.log('res', res)
-    res.render('index.ejs', { name:'Awshaf'}); 
-})
+    res.render('index.ejs', { name:'ZZhaf'}); 
+}) 
+
+app.get('/register', (req,res)=>{
+    res.render('register.ejs', {}); 
+}) 
+app.get('/login', (req,res)=>{
+    res.render('login.ejs', {}); 
+}) 
 
 app.listen(3000);
 
