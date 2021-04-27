@@ -6,6 +6,9 @@
 - dotevn module protects your credentials
 - ejs is a template to store any files you specify it with
 
+## Extra Notes
+
+
 
 ShoutOut to: 
 https://www.youtube.com/watch?v=-RCnNyD0L-s&t=238s
