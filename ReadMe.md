@@ -9,9 +9,9 @@
 
 
 
-ShoutOut to WebDevSimplified:
-His Youtube:
+### ShoutOut to WebDevSimplified:
+His Youtube:\n
 https://www.youtube.com/watch?v=-RCnNyD0L-s&t=238s
 
-His GitHub for this repo:
+His GitHub for this repo:\n
 https://github.com/WebDevSimplified/Nodejs-Passport-Login/blob/master/views/register.ejs
