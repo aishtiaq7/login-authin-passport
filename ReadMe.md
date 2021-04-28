@@ -6,9 +6,12 @@
 - dotevn module protects your credentials
 - ejs is a template to store any files you specify it with
 
-## Extra Notes
 
 
 
-ShoutOut to: 
+ShoutOut to WebDevSimplified:
+His Youtube:
 https://www.youtube.com/watch?v=-RCnNyD0L-s&t=238s
+
+His GitHub for this repo:
+https://github.com/WebDevSimplified/Nodejs-Passport-Login/blob/master/views/register.ejs
